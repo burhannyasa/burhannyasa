@@ -14,6 +14,7 @@ Languages: Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL (PostgreSQL, MySQL
 Tools: PostgreSQL, Power BI, MS Excel (Advanced), Git & GitHub, Jupyter Notebook
 
 📫 Connect with me:
-LinkedIn: linkedin.com/in/burhanyasa
+
+LinkedIn: linkedin.com/in/burhanyasa/
 
 Email: burhan_yasa@hotmail.com
