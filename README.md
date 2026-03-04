@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there 👋, I'm Burhan Yasa!
+# Hi, I'm Burhan Yasa!
 
 ### 🎓 Academic Background
 * **Senior Statistics Student** @ Yıldız Technical University (2026 Candidate)
