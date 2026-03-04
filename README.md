@@ -14,8 +14,8 @@
 * Bridging the gap between raw transactional data and actionable business insights through statistical rigor.
 
 ### 🛠 Languages and Tools
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL (PostgreSQL, MySQL), R, SPSS, STATA
-* **Tools:** PostgreSQL, Power BI, MS Excel (Advanced), Git & GitHub, Jupyter Notebook
+* **Languages:** Python , SQL , R, SPSS, STATA
+* **Tools:** PostgreSQL, Power BI, MS Excel , Git & GitHub, Jupyter Notebook
 
 ---
 
