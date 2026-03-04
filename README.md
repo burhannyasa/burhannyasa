@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**burhannyasa/burhannyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Burhan Yasa!
+🧠 A passionate Data Analyst candidate from Türkiye 🇹🇷👀💻
 
-Here are some ideas to get you started:
+🎓 Senior Statistics Student @ Yıldız Technical University (2026 Candidate)
+🏦 Strong interest in E-commerce & Fintech Projects | I focus on customer behavior, loyalty analytics (LTV/RFM), and churn prediction models.
+🐍 Python Stack: NumPy, Pandas, Seaborn, Matplotlib, SciKit-Learn
+📊 Data Tools: PostgreSQL (Advanced SQL), Power BI, MS Excel (Advanced)
+🎯 I’m interested in: Data Pre-processing (Data Integrity), Statistical Inference, Machine Learning, and building end-to-end analytical systems to extract business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Languages: Python , SQL (PostgreSQL, MySQL), R, SPSS, STATA.
+
+Tools: PostgreSQL, Power BI, MS Excel , Git & GitHub, Jupyter Notebook.
+
+📫 Connect with me: LinkedIn | burhan_yasa@hotmail.com
