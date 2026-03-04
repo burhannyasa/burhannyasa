@@ -1,17 +1,19 @@
 ## Hi there 👋
 
 Hi 👋, I'm Burhan Yasa!
-🧠 A passionate Data Analyst candidate from Türkiye 🇹🇷👀💻
+🧠 Senior Statistics Student @ Yıldız Technical University (2026 Candidate)
+🎓 Academic Background: Senior Student in Statistics. Focused on data integrity, statistical inference, and predictive modeling.
 
-🎓 Senior Statistics Student @ Yıldız Technical University (2026 Candidate)
-🏦 Strong interest in E-commerce & Fintech Projects | I focus on customer behavior, loyalty analytics (LTV/RFM), and churn prediction models.
-🐍 Python Stack: NumPy, Pandas, Seaborn, Matplotlib, SciKit-Learn
-📊 Data Tools: PostgreSQL (Advanced SQL), Power BI, MS Excel (Advanced)
-🎯 I’m interested in: Data Pre-processing (Data Integrity), Statistical Inference, Machine Learning, and building end-to-end analytical systems to extract business value.
+🏦 Industry Interest: High interest in E-commerce & Fintech. Currently building end-to-end analytical systems for loyalty and risk analysis.
 
-Languages and Tools:
-Languages: Python , SQL (PostgreSQL, MySQL), R, SPSS, STATA.
+🎯 Core Focus: Bridging the gap between raw transactional data and actionable business insights through statistical rigor.
 
-Tools: PostgreSQL, Power BI, MS Excel , Git & GitHub, Jupyter Notebook.
+🛠 Languages and Tools:
+Languages: Python (Pandas, NumPy, Scikit-Learn, Seaborn), SQL (PostgreSQL, MySQL), R, SPSS, STATA
 
-📫 Connect with me: LinkedIn | burhan_yasa@hotmail.com
+Tools: PostgreSQL, Power BI, MS Excel (Advanced), Git & GitHub, Jupyter Notebook
+
+📫 Connect with me:
+LinkedIn: linkedin.com/in/burhanyasa
+
+Email: burhan_yasa@hotmail.com
