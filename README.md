@@ -25,4 +25,4 @@
 
 ### 📫 Connect with me:
 * **LinkedIn:** [linkedin.com/in/burhannyasa](https://linkedin.com/in/burhannyasa)
-* **Email:** [burhan_yasa@hotmail.com](mailto:burhan_yasa@hotmail.com)
+* **Email:** [burhannyasa@gmail.com](mailto:burhannyasa@gmail.com)
