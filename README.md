@@ -1,21 +1,25 @@
 ## Hi there 👋
 
-# Hi, I'm Burhan Yasa!
+# Hi, I'm Burhan Yasa! 👋
 
-### 🎓 Academic Background
-* **Senior Statistics Student** @ Yıldız Technical University (2026 Candidate)
-* Focused on data integrity, statistical inference, and predictive modeling.
+### 🎓 Senior Statistics Student @ Yıldız Technical University (2026)
+*Bridging raw data and business intelligence through statistical rigor.*
 
-### 🏢 Industry Interest
-* High interest in **E-commerce & Fintech**. 
-* Currently building end-to-end analytical systems for loyalty and risk analysis.
+---
 
-### 🎯 Core Focus
-* Bridging the gap between raw transactional data and actionable business insights through statistical rigor.
+### 🧠 Analytical Expertise
+- **Statistical Modeling:** Hypothesis testing, ANOVA, and Regression analysis.
+- **Time Series Forecasting:** Proficiency in ARIMA, SARIMA, and Exponential Smoothing.
+- **Data Engineering:** SQL-based ETL processes and data cleaning (Pandas/NumPy).
+- **Business Intelligence:** Advanced data storytelling via Power BI and ggplot2.
 
-### 🛠 Languages and Tools
-* **Languages:** Python , SQL , R, SPSS, STATA
-* **Tools:** PostgreSQL, Power BI, MS Excel , Git & GitHub, Jupyter Notebook
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
