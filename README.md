@@ -2,7 +2,7 @@
 
 # Hi, I'm Burhan Yasa! 👋
 
-### 🎓 Senior Statistics Student @ Yıldız Technical University (2026)
+### 🎓 Statistics Student @ Yıldız Technical University (2026)
 *Bridging raw data and business intelligence through statistical rigor.*
 
 ---
